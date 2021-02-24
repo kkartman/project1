@@ -1,3 +1,0 @@
-/mnt/c/Users/Deus/project1/build/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/Deus/project1/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/Deus/project1/build/CMakeFiles/lesson.dir
